@@ -16,6 +16,9 @@ Long-Horizon Agentic Learning
 
 <!-- This repository is the official implementation of "[SPARK: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning](https://arxiv.org/abs/2601.20209)". -->
 
+# News
+[2026.04] SPARK accepted at ACL 2026 Main! 🎉🎉🎉 
+
 # 💡 Introduction
 **SPARK** (**S**trategic **P**olicy-**A**ware explo**R**ation via **K**ey-state dynamic branching) is a reinforcement learning framework specifically engineered for **long-horizon agentic tasks**. 
 
