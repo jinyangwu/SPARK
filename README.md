@@ -9,9 +9,6 @@ Long-Horizon Agentic Learning
   <a href="https://arxiv.org/abs/2601.20209">
     <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv" alt="arXiv Paper"></a>
   &nbsp;
-  <a href="x">
-    <img src="https://img.shields.io/badge/GitHub-Project-181717?style=flat-square&logo=github" alt="GitHub Project"></a>
-  &nbsp;
   <a href="https://huggingface.co/papers/2601.20209">
     <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat-square&logo=huggingface" alt="HuggingFace Models"></a>
   &nbsp;
